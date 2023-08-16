@@ -4,7 +4,7 @@ I love writing code and solving problems in an Algorithmic way. I started coding
 
 Skills: C/C++/Python
 
-- 🌱 I’m currently learning Algo and OOP 
+- 🌱 I’m currently learning Algorithms and OOP 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sahil-Ishmam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sahil Uddin Ishmam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sahil Uddin Ishmam)  
