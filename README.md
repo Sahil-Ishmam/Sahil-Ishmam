@@ -9,4 +9,5 @@ I love writing code and solving problems in an Algorithmic way. I started coding
 
 
 - 🌱 I’m currently learning DSA and OOP
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahil-uddin-ishmam-8707301a3/)  
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahil-uddin-ishmam-8707301a3/)  
