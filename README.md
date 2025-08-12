@@ -8,7 +8,7 @@
 
 - Have KNowledge of : Functional Programming , Object-Oriented Programming (OOP), DSA, Software Engineering 
 
-- Currently learning FastAPI 
+- Currently learning FastAPI 💚⚡
 
 - Currently collaborating on an exciting project with a dedicated team of 6 talented individuals.
  
