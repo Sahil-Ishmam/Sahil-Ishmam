@@ -78,16 +78,3 @@ I use a modern stack to build robust applications. Here are the tools I work wit
 *   Full Stack Web Development (Python, Django, React) – 2025
 *   REST API Design and Development – 2025
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil-Ishmam&show_icons=true&type=svg&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Ishmam&layout=compact&langs_count=7&theme=radical" />
-</p>
-
-<!-- 
-NOTE: Replace YOUR_GITHUB_USERNAME_HERE in the code above 
-with your actual GitHub username to show your stats.
--->
