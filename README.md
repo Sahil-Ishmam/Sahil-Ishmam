@@ -83,8 +83,8 @@ I use a modern stack to build robust applications. Here are the tools I work wit
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&type=svg&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&langs_count=7&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahil-Ishmam&show_icons=true&type=svg&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Ishmam&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 <!-- 
