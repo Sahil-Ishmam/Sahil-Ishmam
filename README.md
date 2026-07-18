@@ -39,21 +39,29 @@ I use a modern stack to build robust applications. Here are the tools I work wit
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Krystal-2563EB?style=for-the-badge" alt="Krystal" />
+</p>
+
+### Development & AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-**📍 Software Engineer @ Pristren Bangladesh** _(July 2025 – Present)_
+**📍 Software Engineer @ Pristren Bangladesh** _(July 2025 – February 2026)_
 *   Engineering scalable backend architectures and clean API designs for high-traffic production environments.
 *   Optimizing database schemas and SQL queries to improve retrieval performance and reliability.
 *   Collaborating on full-stack feature implementation, ensuring seamless integration between Django backends and React frontends.
 
-**📍 Full Stack Developer (Freelance) @ OcuTriage (Remote)** _(2026 – Present)_
+**📍 Full Stack Developer (Freelance) @ OcuTriage.co.uk (Remote)** _(2026 – Present)_
 *   Architected and developed **OcuTriage**, a custom digital application for optometry chambers to process patient medical data.
 *   Replaced inefficient paper-based workflows with a fast, structured digital intake system utilizing React.js and TypeScript.
 *   *Received client commendation for significantly improving efficiency.*
@@ -77,4 +85,17 @@ I use a modern stack to build robust applications. Here are the tools I work wit
 *   AI Coder: Vibe Coder to Agentic Engineer (Agentic Workflows) – 2026
 *   Full Stack Web Development (Python, Django, React) – 2025
 *   REST API Design and Development – 2025
+*   CS fundamental (DSA, OOP, Database Design, Operating System)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <a href="https://github.com/Sahil-Ishmam">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Ishmam&show_icons=true&include_all_commits=true&theme=radical" height="195" alt="Sahil's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sahil-Ishmam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Ishmam&layout=compact&langs_count=7&theme=radical" height="195" alt="Sahil's Top Languages" />
+  </a>
+</div>
